@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="Toast_text">Say Hello</string>
+    <string name="count_text">COUNT</string>
+    <string name="zero">0</string>
+    <string name="toast_message">Hello Lim Zhi Wei 19WMD02239</string>
+    <string name="hello">Hello!</string>
+    <string name="count">0</string>
+</resources>
